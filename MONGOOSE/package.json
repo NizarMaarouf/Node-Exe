@@ -1,0 +1,28 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "mongoose",
+  "main": "Product.js",
+  "scripts": {
+    "start": "nodemon ./mongoose/Product.js"
+  },
+  "repository": {},
+  "author": "nizar",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "date": "^1.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.5",
+    "request": "^2.88.2",
+    "shelljs": "^0.8.4",
+    "superagent": "^6.1.0",
+    "unique": "0.0.1",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {}
+}

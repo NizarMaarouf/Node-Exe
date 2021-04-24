@@ -1,0 +1,20 @@
+[
+  user1={
+      _id: Commentid1,
+      name: "nizar",
+      email:"nizar@gamil.com",
+      coments:"beautiful picture"
+    },
+    {
+      _id: Commentid2,
+      name: "adan",
+      email:"adan@gamil.com",
+      coments:"thanks for the comment"
+    },
+    {
+      _id: Commentid3,
+      name: "gurel",
+      email:"gurel@gamil.com",
+      coments:"thanks for the comment"
+    }
+]
